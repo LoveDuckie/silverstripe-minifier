@@ -11,7 +11,7 @@ minification into SilverStripe 4 to minify all combined JavaScript and CSS files
 
 ## Installation via composer
 
-`composer require axllent/silverstripe-minifier`
+`composer require loveduckie/silverstripe-minifier`
 
 
 ## Usage

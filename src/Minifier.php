@@ -1,6 +1,6 @@
 <?php
 
-namespace Axllent\Minifier;
+namespace LoveDuckie\Minifier;
 
 use MatthiasMullie\Minify;
 use SilverStripe\View\Requirements_Minifier;
