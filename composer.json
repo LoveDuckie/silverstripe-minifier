@@ -1,19 +1,22 @@
 {
 	"name": "loveduckie/silverstripe-minifier",
-	"description": "CSS & JavaScript minifier, in PHP for SilverStripe 4 integrating matthiasmullie/minify",
+	"description": "A Silverstripe module for minifying static JS and CSS assets.",
 	"type": "silverstripe-vendormodule",
 	"homepage": "https://github.com/loveduckie/silverstripe-minifier",
 	"keywords": ["silverstripe", "javascript", "css", "minify"],
 	"license": "MIT",
-	"authors": [
-		{
-			"name": "Luc Shelton",
-			"homepage": "https://lucshelton.com/"
-		}
-	],
-	"support": {
-		"issues": "https://github.com/loveduckie/silverstripe-minifier/issues"
-	},
+    "authors": [
+        {
+            "name": "Luc Shelton",
+            "email": "lucshelton@gmail.com",
+            "homepage": "https://www.lucshelton.com",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "lucshelton@gmail.com",
+        "issues": "https://github.com/loveduckie/silverstripe-minifier/issues"
+    },
     "require": {
 		"silverstripe/framework": "^4.10 | ^5.0",
         "matthiasmullie/minify": "^1.3"
