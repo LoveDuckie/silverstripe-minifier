@@ -4,6 +4,7 @@
 	"type": "silverstripe-vendormodule",
 	"homepage": "https://github.com/loveduckie/silverstripe-minifier",
 	"keywords": ["silverstripe", "javascript", "css", "minify"],
+    "version": "1.0.0",
 	"license": "MIT",
     "authors": [
         {
@@ -23,7 +24,7 @@
 	},
     "autoload": {
         "psr-4": {
-            "LoveDuckie\\Minifier\\": "src/"
+            "LoveDuckie\\SilverStripe\\Minifier\\": "src/"
         }
     }
 }
