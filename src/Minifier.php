@@ -12,7 +12,7 @@ class Minifier implements Requirements_Minifier
      *
      * @param string $content
      * @param string $type Either js or css
-     * @param string $filename Name of file to display in case of error
+     * @param $fileName
      * @return string minified content
      */
     public function minify($content, $type, $fileName)
