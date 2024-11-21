@@ -2,7 +2,7 @@
 	"name": "loveduckie/silverstripe-minifier",
 	"description": "A Silverstripe module for minifying static JS and CSS assets.",
 	"type": "silverstripe-vendormodule",
-	"homepage": "https://github.com/loveduckie/silverstripe-minifier",
+    "homepage": "https://lucshelton.com",
 	"keywords": ["silverstripe", "javascript", "css", "minify"],
     "version": "1.0.0",
 	"license": "MIT",
